@@ -1,4 +1,4 @@
-# flag-quiz
+# Flag-Quiz
 Quiz app for Android
 
 Quiz app that tests your knowledge of the flags of different regions of a country.
